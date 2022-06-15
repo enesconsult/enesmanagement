@@ -9,8 +9,8 @@
 
 <channel>
 	<title>enesmanagement</title>
-	<atom:link href="https://enesconsult.github.io/enesmanagement/feed/" rel="self" type="application/rss+xml" />
-	<link>https://enesconsult.github.io/enesmanagement/</link>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Accounting Firm</description>
 	<lastBuildDate>Wed, 15 Jun 2022 11:48:08 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
-	<url>https://enesconsult.github.io/enesmanagement/wp-content/uploads/2022/06/logo-dark-150x131.webp</url>
+	<url>/wp-content/uploads/2022/06/logo-dark-150x131.webp</url>
 	<title>enesmanagement</title>
-	<link>https://enesconsult.github.io/enesmanagement/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>https://enesconsult.github.io/enesmanagement/hello-world/</link>
-					<comments>https://enesconsult.github.io/enesmanagement/hello-world/#comments</comments>
+		<link>/hello-world/</link>
+					<comments>/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[luqman]]></dc:creator>
 		<pubDate>Wed, 15 Jun 2022 11:48:08 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://enesconsult.github.io/enesmanagement/?p=1</guid>
+		<guid isPermaLink="false">/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://enesconsult.github.io/enesmanagement/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
